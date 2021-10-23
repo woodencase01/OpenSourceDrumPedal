@@ -1,4 +1,4 @@
-# Open Source Drum Pedal V6
+# Open Source Drum Pedal V7
 An open source drum pedal you can build yourself!
 
 <img src="./images/OpenSourceDrumPedal_V7.png">
