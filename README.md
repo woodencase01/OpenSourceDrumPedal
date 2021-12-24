@@ -1,11 +1,11 @@
-# Open Source Drum Pedal V7
+# Open Source Drum Pedal V8
 An open source drum pedal you can build yourself!
 
-<img src="./images/OpenSourceDrumPedal_V7.png">
+<img src="./images/OpenSourceDrumPedal_V8.png">
 
 ## Files available
 * 3D STEP
 * STL
 
 ## Visit the blog post
-[More details here.](https://woodencase01.netlify.app/blog/the-open-source-drum-pedal-v7/)
+[More details here.](https://woodencase01.netlify.app/blog/the-open-source-drum-pedal-v8/)
