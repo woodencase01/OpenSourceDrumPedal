@@ -42,7 +42,7 @@ The goal is to provide access to a **high-quality professional feel** at a fract
 You can use "Download ZIP" from the main branch, to get the most up to date version.
 
 For older versions, see commits or tags:
-* Go to the **[Tags/Releases](https://www.google.com/search?q=https://github.com/woodencase01/OpenSourceDrumPedal/tags)** page.
+* Go to the **[Tags/Releases](https://github.com/woodencase01/OpenSourceDrumPedal/tags)** page.
 * Download the version you are looking for.
 
 #### Files available
